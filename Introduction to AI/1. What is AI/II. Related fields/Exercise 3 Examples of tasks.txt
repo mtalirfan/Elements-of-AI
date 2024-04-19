@@ -1,0 +1,21 @@
+Exercise 3: Examples of tasks
+
+Consider the following example tasks. Try to determine which AI-related fields are involved in them. Select all that apply. (Hint: machine learning involves almost always some kind of statistics).
+
+Note: This exercise is meant to inspire you to think about the different aspects of AI and their role in various applications. As there are no clear-cut answers to many of these questions, this exercise will not be included in the grading. Nevertheless, we suggest that you do your best and try to answer as well as you can, but don't worry if our answers will differ from yours.
+
+
+Autonomous car
+Statistics  Robotics    Machine learning
+
+Steering a rocket into orbit
+Robotics
+
+Online ad optimization
+Statistics  Machine learning
+
+Customer service chatbot
+Machine learning
+
+Summarizing gallup results
+Statistics
