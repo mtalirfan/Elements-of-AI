@@ -1,0 +1,15 @@
+Exercise 20: Elements of a neural network
+
+Label the different components of a neuron into the diagram below. Hint: The input of the neuron comes from the left and the output goes to the right.
+
+Synapse (connection)
+D
+
+Dendrite (input)
+B
+
+Cell body
+A
+
+Axon (output)
+C

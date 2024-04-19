@@ -1,0 +1,31 @@
+Exercise 24: Implications of AI
+
+What kind of articles (in newspapers and magazines or other popular science outlets such as blogs, ...) are being written about AI - and do you think they are realistic? Do an online search about AI related to one of your interests. Choose one of the articles and analyze it.
+
+Mention the title of the article along with its author and where it was published (as a URL if applicable) in your answer.
+Explain the central idea in the article in your own words using about a paragraph of text (multiple sentences.)
+Based on your understanding, how accurate are the AI-related statements in the article? Explain your answer. Are the implications (if any) realistic? Explain why or why not.
+Note: On using ChatGPT and similar models: We appreciate you putting an AI tool into use. Feel free to consult it but note that since we are interested in your own opinion, we expect you to write your final answers yourself.
+
+Your answer:
+
+1. Spotify Debuts a New AI DJ, Right in Your Pocket , https://newsroom.spotify.com/2023-02-22/spotify-debuts-a-new-ai-dj-right-in-your-pocket/
+2. The article is about a new AI-enabled "DJ" feature on Spotify, which will give personalised music recommendations, now more powerful and personal. It describe how the DJ is different from already-existing music recommendation system, how it incorporates a combination of Spotify’s personalization technology, Generative AI and "A dynamic AI voice" for best results, and how to use it.
+3. The AI-related statements are accurate. Using Generative AI to "provide you with insightful facts about the music, artists, or genres you’re listening" and creating a voice model for the DJ by using Xavier “X” Jernigan's human voice and training the model are correct statements.
+
+Example answer
+
+Many of the articles that we studied were about the great promise of AI in different areas such as health-care, finance, customer service, transportation... you name it. A pattern that seems to repeat is that Google, IBM, Microsoft, or some of the other big players in the field have demonstrated a prototype product and the reporter is amazed by it. This tends to be combined with an estimate of the US or global market of the industry in question, which easily amounts to billions of euros.
+
+The articles very rarely report anything about the actual techniques underlying the solutions, which is quite understandable since many readers wouldn't be able to digest any technical details. (You would!)
+
+A few of the articles we reviewed contain statements about AI "reading millions of pages" and "comprehending them", but to be honest, we were actually expecting worse based on our Facebook feed. Perhaps the social media recommendations we get (based on our clicks! makes you wonder...) are of lower quality than what Google search can provide?
+
+Your answer has been accepted!
+
+You may still give peer reviews to help others
+
+Received peer reviews:
+
+Your answer has received 3 peer reviews. The average grade of received reviews is 4.58.
+

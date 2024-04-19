@@ -1,0 +1,74 @@
+Exercise 15: Filter bubbles
+
+As discussed above, recommending news or social media content that a user is likely to click or like, may lead to filter bubbles where the users only see content that is in line with their own values and views.
+
+Do you think that filter bubbles are harmful? After all, they are created by recommending content that the user likes. What negative consequences, if any, may be associated with filter bubbles? Feel free to look for more information from other sources.
+Think of ways to avoid filter bubbles while still being able to recommend content to suit personal preferences. Come up with at least one suggestion. You can look for ideas from other sources, but we'd like to hear your own ideas too!
+Note: your answer should be at least a few sentences for each part.
+
+Note: On using ChatGPT and similar models: We appreciate you putting an AI tool into use. Feel free to consult it but note that since we are interested in your own opinion, we expect you to write your final answers yourself.
+
+Your answer:
+
+Filter bubbles are great for many cases, such as shared interests in movies, shows and music. However, they are very harmful in cases like politics and left-right wing discourse, where members of each wing will begin to see content, getting more extreme. This will lead to completely turning a blind eye to valid arguments of the other side.
+People should have an open mind and regularly stay informed of viewpoints other than their own. They can burst this filter bubble by manually searching for other content themselves, even if they do not agree with it.
+I am very tired of the "gender discourse" and what the right wing is currently doing with it, by staying in their own bubble and getting more extreme.
+
+Example answer
+
+Filters as such are useful. They recommend content such as music that we like. The bubble phenomenon, where users get a biased view of facts and opinions, on the other hand, is clearly harmful. There are no "alternative facts" – the alternative of a fact is not a fact – but information is always presented from some point of view. If we are not exposed to more than one point of view, we can easily end up holding a biased worldview.
+
+Getting completely rid of filter bubbles is probably not a good idea. After all, we have always liked different things and been interested in different things. In the days of print media, the newspaper that we'd read was our filter bubble, which made sure that the bubble didn't get too small.
+
+We believe that the first step to avoid the harmful effects of filter bubbles is to recognize when we are inside one. To this end, it is helpful if the applications we use clearly indicate that the recommendations that we see don't represent a balanced overall view to the content. This can be achieved by letting the user explore the content also through other views than a list of recommendations. In Spotify, you can choose music based on its genre, and Netflix and HBO provide recommendations in various different categories.
+
+Your answer has been accepted!
+
+You may still give peer reviews to help others
+
+Received peer reviews:
+
+Your answer has received 6 peer reviews. The average grade of received reviews is 4.58.
+
+
+Peer review 1 (7/2/2023)
+
+Answer is on-topic 5
+Answer is comprehensive 5
+Answer is well reasoned 5
+Answer is easy to follow 5
+
+Peer review 2 (7/2/2023)
+
+Answer is on-topic 5
+Answer is comprehensive 5
+Answer is well reasoned 5
+Answer is easy to follow 5
+
+Peer review 3 (7/1/2023)
+
+Answer is on-topic 5
+Answer is comprehensive 5
+Answer is well reasoned 5
+Answer is easy to follow 5
+
+Peer review 4 (7/1/2023)
+
+Answer is on-topic 5
+Answer is comprehensive 4
+Answer is well reasoned 4
+Answer is easy to follow 4
+
+Peer review 5 (7/1/2023)
+
+Answer is on-topic 4
+Answer is comprehensive 4
+Answer is well reasoned 4
+Answer is easy to follow 4
+
+Peer review 6 (7/1/2023)
+
+Answer is on-topic 3
+Answer is comprehensive 4
+Answer is well reasoned 5
+Answer is easy to follow 5

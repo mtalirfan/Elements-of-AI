@@ -1,0 +1,1 @@
+Areas like natural language and image processing have traditionally been sore points of AI. Neural networks and deep learning are being used to achieve significant improvements in these areas.

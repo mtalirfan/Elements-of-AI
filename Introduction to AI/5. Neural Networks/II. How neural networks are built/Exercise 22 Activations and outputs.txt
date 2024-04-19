@@ -1,0 +1,14 @@
+Exercise 22: Activations and outputs
+
+Below are graphs for three different activation functions with different properties. First we have the sigmoid function, then the step function, and finally the identity function. IMPORTANT: Note the different y-axis (vertical) scale in the identity function chart.
+
+Which of the activations described above gives:
+the highest output for an input of 5?
+Identity
+
+the lowest output for an input of -5?
+Identity
+
+the highest output for an input of -2.5?
+Sigmoid
+

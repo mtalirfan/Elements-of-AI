@@ -1,0 +1,26 @@
+Exercise 23: What is the perception of AI?
+
+For this exercise, we want you to think about how AI is portrayed. Do an online image search for the term “AI” and see what kinds of pictures come up. If you are using Google search, you should choose "Images" in the top of the screen.
+
+What's the general impression you get about AI from the image search results? Is this an accurate representation of AI? Why or why not?
+
+Note: On using ChatGPT and similar models: We appreciate you putting an AI tool into use. Feel free to consult it but note that since we are interested in your own opinion, we expect you to write your final answers yourself.
+
+Your answer:
+
+AI is ALWAYS portrayed by this robot with a neural computer brain. It is not a true depiction of what AI is, because AI is not just robots getting so intelligent they outsmart humans. It is much more than that, and has many other applications. The google search I did showed me images the AI algorithm decided were relevant to my search.
+
+Example answer
+
+The Google image search with the query "AI" brought us almost exclusively brains made of circuits. After scrolling down a bit, we also got some shining white humanoid robots, often in a very pensive state. The color blue is dominant. Based on this, the impression would be that AI is about tinkering with wires and circuits, trying to build an electronic brain in some modern Frankenstein spirit. Not much color, not much fun.
+
+We don't think that this is an accurate representation of AI at all! AI is about solving practical, human problems, in our everyday life: better music, more interesting and important news, making new friends. Even the research side of AI, which is not what most of the Google hits are about, almost never involves working with hardware such as circuits and wires. It is mostly simply about applying sound scientific principles to understand how we can push the limits of our AI methods. It often takes a lot of talking to other researchers, writing on scrap paper, and programming. Not really much different from any other research.
+
+Your answer has been accepted!
+
+You may still give peer reviews to help others
+
+Received peer reviews:
+
+Your answer has received 3 peer reviews. The average grade of received reviews is 4.58.
+

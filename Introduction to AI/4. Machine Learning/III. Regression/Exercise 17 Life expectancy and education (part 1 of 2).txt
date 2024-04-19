@@ -1,0 +1,14 @@
+Exercise 17: Life expectancy and education (part 1 of 2)
+
+Let’s study the link between the total number of years spent in school (including everything between preschool and university) and life expectancy. Here is data from three different countries displayed in a figure represented by dots:
+
+We have one country where the average number of years in school is 10 and life expectancy is 57 years, another country where the average number of years in school is 13 and life expectancy is 53 years, and a third country where the average number of years in school is 20 and life expectancy is 80 years.
+
+You can drag the end points of the solid line to position the line in such a way that it follows the trend of the data points. Note that you will not be able to get the line fit perfectly with the data points, and this is fine: some of the data points will lie above the line, and some below it. The most important part is that the line describes the overall trend.
+
+After you have positioned the line you can use it to predict the life expectancy.
+
+Given the data, what can you tell about the life expectancy of people who have 15 years of education? Important: Notice that even if you can obtain a specific prediction, down to a fraction of a year, by adjusting the line, you may not necessarily be able to give a confident prediction. Take the limited amount of data into account when giving your answer.
+
+It is probably less than 90
+

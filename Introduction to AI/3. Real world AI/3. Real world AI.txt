@@ -1,0 +1,1 @@
+One of the reasons why modern AI methods actually work in the real world - as opposed to most of the earlier good old-fashioned methods in the 1960-1980s - is the ability to deal with uncertainty.

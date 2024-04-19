@@ -1,0 +1,1 @@
+Search algorithms don’t necessarily feel like very cool AI methods. However, they can be used to solve tasks that most of us would admit require intelligence like navigation or playing chess.
